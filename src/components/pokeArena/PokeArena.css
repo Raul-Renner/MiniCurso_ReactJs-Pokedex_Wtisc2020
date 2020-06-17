@@ -1,0 +1,48 @@
+.background-arena{
+    background: url('../../img/battlegrass.png');
+     background-repeat: no-repeat;
+     background-position:center;
+     background-image:center;
+}
+
+.life_pokemon{
+    text-transform: capitalize;
+}
+
+.space_btn_atack{
+    padding: 0.5em;
+}
+
+.space_mensage{
+    text-transform: uppercase;
+}
+
+.layout_pokeArena{
+    margin-top: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.container-battle{
+    width: 70%; 
+    margin-top: 1em; 
+    border: 1px solid #cecece;
+
+}
+
+.oponentes{
+    padding: 1.0em;
+}
+
+.space_fight{
+    border-left: 1px solid #cecece;
+    border-right: 1px solid #cecece;
+    padding: 2em;
+} 
+.btn_pokemon_fight{
+    padding: 0; 
+    margin: 0;
+    border-radius: 0;
+    border: none;
+}

@@ -1,0 +1,33 @@
+
+
+h3{
+    text-align:center;
+}
+
+
+.table_info{
+    margin-top: 20px; 
+    width: 100%;
+}
+
+
+
+.th_pagInfor{
+    text-align: center;
+    width: 20%;
+}
+
+.th_pagInfor span{
+    text-transform: capitalize;
+}
+
+.imgs_pokemon{
+    text-align:center; 
+    vertical-align:middle;
+    width: 30%;
+}
+
+.btn_voltar_pag{
+    text-align: center;
+    padding: 5px;
+}
